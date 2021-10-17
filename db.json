@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "NPC",
+      "id": 0
+    },
+    {
+      "name": "Rayne",
+      "id": 1
+    }
+  ],
+  "characters": [
+    {
+      "userId": 1,
+      "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+      "name": "Thor",
+      "strength": 100,
+      "speed": 83,
+      "power": 100,
+      "health": 200,
+      "id": 1
+    }
+  ],
+  "battleSession": [],
+  "userDecks": [
+    {
+      "practiceDeck": "my practice/prototype deck"
+    }
+  ]
+}
